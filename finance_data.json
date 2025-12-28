@@ -1,0 +1,37 @@
+{
+  "246411867": {
+    "balance": 3299111.0,
+    "transactions": [
+      {
+        "type": "income",
+        "amount": 1.0,
+        "category": "Доход",
+        "date": "29.12.2025 02:10"
+      },
+      {
+        "type": "expense",
+        "amount": 1.0,
+        "category": "Расход",
+        "date": "29.12.2025 02:10"
+      },
+      {
+        "type": "income",
+        "amount": 2222222.0,
+        "category": "Доход",
+        "date": "29.12.2025 02:10"
+      },
+      {
+        "type": "expense",
+        "amount": 34222.0,
+        "category": "Расход",
+        "date": "29.12.2025 02:10"
+      },
+      {
+        "type": "income",
+        "amount": 1111111.0,
+        "category": "Доход",
+        "date": "29.12.2025 02:13"
+      }
+    ]
+  }
+}
